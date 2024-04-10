@@ -1,0 +1,84 @@
+/* body {
+    margin: 0; 
+    padding: 0;
+    border: #333;
+} */
+
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: serif;
+    margin: auto;
+    background-color: #c5f0ce;
+}
+
+header {
+    text-align: left;
+    margin-bottom: 50px;
+}
+.head
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin-top: 5px;
+}
+
+.experience,
+.education,
+.contact-info,
+.summary{
+    margin-bottom: 30px;
+}
+.sum
+{
+    font-style: normal;
+    font-family: serif;
+    font-size: larger;
+    color:#0c8c25b5
+}
+.name
+{
+    color: #31a949;
+    font-family: serif;
+}
+.AA
+{
+    color: #31b04b;
+}
+h2 
+{
+    border-bottom: 2px solid #333;
+}
+
+li 
+{
+    margin-bottom: 5px;
+}
+
+table
+{
+    width: 100%;
+    border-collapse: collapse; 
+    margin-top: 10px;
+}
+
+ th, td {
+    border: 2px solid #050404;
+    padding: 8px;
+    text-align: center;
+    
+} 
+
+th {
+    background-color: #62bec8;
+}
+
+@media screen and (max-width: 600px) {
+    .resume {
+        padding: 10px;
+    }
+}
